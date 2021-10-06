@@ -19,6 +19,8 @@ assigned a language tag (ENG or HIN). For example:
 
 ![image](https://user-images.githubusercontent.com/80084594/136293079-ee49cab5-6e4f-4799-82b0-a1dbf90e0bda.png)
 
+
+
 Next, mark the span of the different linguistic elements like words, clauses, sentences etc. in the tweet.
 Analyse and explain what linguistic elements are normally mixed together.
 

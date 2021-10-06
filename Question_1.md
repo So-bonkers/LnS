@@ -9,7 +9,11 @@ interchangibly. The people I decided to base this assignment on were -
 * Customers
 * Friends
 
+----
 
+### Under Observation -
+1. Owner -  The Owner converses with the customers in both Hindi and English as well as in a codemixed manner. The response and the language in which the owner replies to a query also depends on the language in which the query was made by the customer. Though he tries to reply in the same language, he often mixes the two languages while replying in English. For example - "OK thank you fir zaroor aiyega", "Nahi sir ye hotel expensive nahi hain, balki ekdum moderately-priced hain"  or "Ji, ji kaunse delivery location pe bhejna hai delivery boy ko?" This difference is 
+2. 
 
 Yes , yes . Aap kaunse type ka food lene chahege ?
 theek hai kya type ka food woh log serve karte hai ? the_lucky_star chinese khana serve karte hain

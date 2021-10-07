@@ -70,5 +70,14 @@ interchangibly. The people I decided to base this assignment on were -
 2.  ### People - 
 * Among their respective social groups, they tend to stick to any one language (English or Hindi)
 * While placing order (with waiter), customers prefer to use a codemixed version of English and Hindi 
+* When the conversation occurs with the owner of the store, Hindi is the most preferred lanugage. 
 
-3.  
+3.  ### Situation - 
+* Restaurant sees customers (essentially a group of people) assembling for various reasons
+* People coming simply to eat; These groups usually have idle discussions which take place majorly in Hindi
+* There were also groups spotted which came for work/ business lunch/ etc. These groups generally have a fixed agenda for the meeting and language preferred is predominantly English.
+* People who speak a third common language mostly prefer to converse in that language alone (atleast with each other). But this speech may or may not contain borrowed words from a different language and hence is oftenfound to be codemixed in nature.
+
+4.  ### Topic - 
+It is difficult to generalise (if not impossible) the distinction in speech on the basis of topics because the topics themselves (in this context) are very vague. [Also Observer's Dilmma] 
+

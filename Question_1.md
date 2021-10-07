@@ -33,4 +33,5 @@ interchangibly. The people I decided to base this assignment on were -
 
 4. #### Topic -
 *  The choice of language use greatly depends on the topic being discussed. Note that here the conversation referred to is the one between the owner and a customer
-*  
+*  If the topic being talked about is food, the owner predominantly uses English but speaks Hindi as well
+*  On the other hand, if the topic being discussed is related to the 

@@ -79,5 +79,22 @@ interchangibly. The people I decided to base this assignment on were -
 * People who speak a third common language mostly prefer to converse in that language alone (atleast with each other). But this speech may or may not contain borrowed words from a different language and hence is oftenfound to be codemixed in nature.
 
 4.  ### Topic - 
-It is difficult to generalise (if not impossible) the distinction in speech on the basis of topics because the topics themselves (in this context) are very vague. [Also Observer's Dilmma] 
+It is difficult to generalise (if not impossible) the distinction in speech on the basis of topics because the topics themselves (in this context) are very vague. [Also Observer's Dilemma] 
 
+---
+
+### Friends
+
+1. #### Languages used - 
+* As the bulk of my friends (with whom I went to this restaurant) are all multilingual with only English as our commonly understood language, we prefer to communicate in English.
+
+2. ### People - 
+* I observed that our group maintained a Hindi conversation among ourselves (while choosing the order and idle chat), but ordered in English. 
+* Codemixing (Hindi and English) was not uncommon as the breadth of the topics discussed mainly included Academia, which necessitated the use of technical terms.
+* Example - ".... Haa but phir bhi C.S-1 ka syllabus mere liye jyaada easy tha, C.S-2 toh was very tough"
+
+3. ### Situation and Topic - 
+* As demonstrated by the above example, codemixing was more common in the situations where the usage of the appropriate word (and the absence of a word with corresponding meaning in the other language) is necessary.
+* While interacting with others (excluding the above situation), Hindi was more preffered.
+* There was also an instance where impersonation of few celebrities followed. Here, the language used (for the reported speech) was the same as the one used in the original dialogue. Example - "I am inevitable!" 
+  

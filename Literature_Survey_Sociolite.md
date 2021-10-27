@@ -12,7 +12,9 @@
 ### Literature Survey
 The papers chosen as a reference for these projects were:
 * Learning and Evolutionary Constraints on Linguistic Variability - Alessandra Chiera, Ines Adornetti, Francesco Ferretti
+  https://www.researchgate.net/publication/345158108_Learning_and_Evolutionary_Constraints_on_Linguistic_Variability
 * Chance as Cause of Language Variation and Change - Ron Butters
+  https://www.researchgate.net/publication/249700326_Chance_as_Cause_of_Language_Variation_and_Change
 
 Our project intends to systematically categorise people who pronounce the chosen linguistic variable (i.e the consonants 'क्ष' and 'ज्ञ') into 3 social categories. 
 The papers chosen throw a light on the way this categorisation takes place. What really interested us was the chaos theory in the 2nd paper. 
